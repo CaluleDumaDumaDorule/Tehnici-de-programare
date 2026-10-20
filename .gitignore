@@ -1,0 +1,3 @@
+# Ignor mediul virtual
+.venv/
+__pycache__/
