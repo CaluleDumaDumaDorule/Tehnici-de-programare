@@ -1,0 +1,16 @@
+{
+  "straturi": [
+    "base64"
+  ],
+  "rezultat": "Salut",
+  "xor": {
+    "cheie": 128,
+    "cheie_hex": "0x80",
+    "rezultat": "Un singur octet tine tot secretul... gaseste-l! FLAG{xor_un_octet}"
+  },
+  "hash": {
+    "tinta": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "algoritm": "md5",
+    "parola": "password"
+  }
+}

@@ -1,0 +1,19 @@
+=== B1 Magic bytes ===
+probe/foto.jpg -> jpeg
+probe/ascuns.png -> png
+
+=== B2 Strings ===
+Numar siruri: 8
+indiciu: secret.txtFLAG{ascuns_prin_carving}
+indiciu: secret.txtPK
+
+=== B3 EXIF/GPS ===
+EXIF disponibil: True
+GPS: (47.016666666666666, 28.8575)
+
+=== B4 File carving ===
+Offset ZIP: 781
+Continut: [('secret.txt', 'FLAG{ascuns_prin_carving}')]
+
+=== B5-B6 LSB ===
+Mesaj recuperat: FLAG{ascuns_in_pixeli}

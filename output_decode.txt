@@ -1,0 +1,5 @@
+Lant: base64 -> base64 -> hex
+Rezultat: FLAG{straturi_de_encoding}
+XOR: 128 Un singur octet tine tot secretul... gaseste-l! FLAG{xor_un_octet}
+Hash: md5 parola = password
+Fisa salvata: arsenal/forensics/fisa.json
